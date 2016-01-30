@@ -85,4 +85,6 @@ RUN /home/galaxy/initialize_galaxy.sh
 
 CMD ["/usr/local/bin/init.sh"]
 
+# sudo docker build -t kiwenlau/pitagora-galaxy .
+
 
